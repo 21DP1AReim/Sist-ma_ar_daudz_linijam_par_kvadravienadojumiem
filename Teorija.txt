@@ -1,0 +1,71 @@
+﻿Vienādojumu ax²+bx+c=0, kur a, b un c ir reāli skaitļi un a≠0, sauc par kvadrātvienādojumu.
+
+Piemērs:
+4x²−3x+1=0
+a=4
+b=−3
+c=1
+
+Kvadrātvienādojuma saknes var atrast pēc formulām:
+x1=−b+√D/2a
+x2=−b−√D/2a
+kur D= b²−4ac.
+ 
+Vērtību D sauc par diskriminantu.
+Pēc diskriminanta vērtības var noteikt kvadrātvienādojuma sakņu skaitu.
+Ja D < 0 (negatīvs), tad vienādojumam nav atrisinājuma reālo skaitļu kopā.
+Ja D = 0, tad vienādojumam ir divas vienādas saknes.
+Ja D > 0 (pozitīvs), tad vienādojumam ir divas dažādas saknes.
+Kvadrātvienādojumu x²+bx+c=0 var risināt, izmantojot Vjeta teorēmu:
+{x1*x2=c
+{x1+x2=−b 
+Ievēro: koeficients pie x² ir a=1!
+(Atrisināšanas piemērus skaties pie uzdevumiem.)
+  
+Nepilnie kvadrātvienādojumi
+  
+Ir divu veidu nepilnie kvadrātvienādojumi:
+ 
+1. Ja c=0, tad vienādojums ir ax²+bx=0;
+2. Ja b=0, tad ax²+c=0.
+  
+Nepilnos kvadrātvienādojumus drīkst risināt ar diskriminanta formulām, bet racionālāk būs izvēlēties speciālas metodes:
+ 
+1) ax²+bx=0 risina, sadalot reizinātājos (iznesot pirms iekavām x).
+ x(ax+b)=0
+
+Tātad x=0 vai ax+b=0. (Jo divu skaitļu reizinājums ir vienāds ar nulli tikai tad, ja vismaz viens no šiem skaitļiem ir 0.)
+Viena sakne ir 0, bet otra sakne ir x=−b/a.
+Piemērs:
+  2x²−30x=0
+  x(2x−30)=0
+1)x=0
+2)2x−30=0
+  2x=30
+  x=15
+ 
+Atbilde: x1=0, x2=15.
+2) ax²+c=0 risina, pārnesot saskaitāmos dažādās pusēs un tad velkot kvadrātsakni. 
+ 
+ax²=−c (izdala abas puses ar a)
+x²=−ca
+|x|=√−c/a
+(Ievēro: velkot sakni, iegūst x moduļa vērtību!)
+Tas nozīmē, ka
+x1=√−c/a
+x2=−√-c/a
+Piemērs:
+4x²−100=0
+4x2=100∣∣:4
+x²=25
+|x|=√25
+x1=5;
+x2=−5
+ 
+Atbilde: x1=5; x2=−5.
+Piemērs:
+x²+36=0
+x2=−36
+Šim vienādojumam nav atrisinājuma, jo kvadrātsakni nedrīkst vilkt no negatīva skaitļa (zinām arī, ka, skaitli kāpinot kvadrātā, nevar iegūt negatīvu skaitli).
+ 
+Atbilde: sakņu nav.
